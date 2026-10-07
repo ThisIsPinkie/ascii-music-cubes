@@ -1,5 +1,7 @@
 # 🎵 Music Cube — ASCII Audio Visualizer
 
+<img width="1362" height="797" alt="image" src="https://github.com/user-attachments/assets/5e9f8876-3913-4570-9dcf-f5430d48ae98" />
+
 Три ASCII-куба, которые реагируют на системный звук в реальном времени.
 Левый — бас, центр — середина, правый — высокие частоты.
 
@@ -15,7 +17,7 @@
 
 ```bash
 pip install pygame-ce numpy PyAudioWPatch
-
+```
 ## Что на экране
 
 - **Слева** — куб баса (оранжевый)
